@@ -1,32 +1,27 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Data Analyst and Machine Learning Engineer. Here, you can explore the various projects I’ve worked on, including cryptocurrency trend prediction, data management systems, and web development.
 
+Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Machine Learning Libraries (e.g., pandas, NumPy, scikit-learn)
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Features
+- Interactive layout showcasing my projects and experience.
+- Detailed descriptions of each project with links to related repositories and resources.
+- Responsive design to ensure the website is user-friendly across all devices.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Open the index.html file in your browser to view the website.
 
-(* = not included)
+Project Highlights
+Cryptocurrency Trend Prediction: A machine learning model predicting cryptocurrency market trends using an ensemble of algorithms.
+BookDoc Website: A healthcare platform developed using HTML, CSS, and JavaScript for booking medical consultations.
+DBMS for Rapid Rentals LLC: A SQL-driven database system to manage rental properties and client transactions.
 
-AJ
-aj@lkn.io | @ajlkn
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact
+Feel free to reach out to me via email for collaboration opportunities or any questions.
